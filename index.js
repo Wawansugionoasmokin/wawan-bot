@@ -53,7 +53,7 @@ conn.on('qr', qr =>
    {
       small: true
    });
-   console.log(`[ ${moment().format("HH:mm:ss")} ] AR15BOT By A187ID Ready Scan Now!`);
+   console.log(`[ ${moment().format("HH:mm:ss")} ] Wawan BOT By wawan ID Ready Scan Now!`);
 });
 
 conn.on('credentials-updated', () =>
