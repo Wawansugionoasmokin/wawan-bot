@@ -1,4 +1,4 @@
-# 🤖AR15BOT🤖
+# 🤖AR15BOT, EDIT WAWAN🤖
 BOT WHATSAPP TERMUX ONLY BY ARIS187 ID
 
 ### Alat dan Bahan
@@ -64,6 +64,6 @@ BOT INI KHUSUS HP/TERMUX DOANG YAH,JIKA MAU RE-UPLOAD CANTUMKAN NAMA SAYA (ARIS1
 
 ## Sosial Media Admin
 * [`Youtube Admin`](https://www.youtube.com/channel/UCGYLWtyT9IADYNUiK0uZiGg)
-* [`Instagram Admin`](https://instagram.com/_sadboy.ig)
-* [`WhatsApp Admin `](https://wa.me/+6285722553839)
+* [`Instagram Admin`](https://instagram.com/mridwanalb_)
+* [`WhatsApp Admin `](http://wa.me/6285718038695)
 
