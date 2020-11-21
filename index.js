@@ -8,7 +8,7 @@ const whatsapplu = 'http://wa.me/6285718038695'; // Nomor whatsapplu cok
 const kapanbotaktif = '24 Jam'; // Kapan bot lu aktif
 const grupch1 = 'https://chat.whatsapp.com/HsXUnss5c2C848AtFDlz6L'; // OFFICIAL GRUP LU 1
 const grupch2 = 'https://www.youtube.com/channel/UCRaciVQ-uyBpFdfIK3F6XCA'; // OFFICIAL GRUP LU 2
-const grupch3 = 'https://instagram.com/mridwanalb'; // OFFICIAL GRUP LU 3
+const grupch3 = 'https://instagram.com/mridwanalb_'; // OFFICIAL GRUP LU 3
 //
 const qrcode = require("qrcode-terminal");
 const moment = require("moment");
